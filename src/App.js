@@ -14,7 +14,7 @@ function App() {
       <Greet name="Ravi"/>
      */}
      {/* <Event1/> */}
-     <AddUserForm addUser={addUser}/>
+     {/* <AddUserForm /> */}
     <User3/>
     {/* <Table users={users}/> */}
 

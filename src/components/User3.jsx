@@ -15,8 +15,8 @@ export const User3 = () => {
     setUsers([...users,user])
 
    }
-
-   const [users,setUsers]=useState(usersData);
+ const [users,setUsers]=useState(usersData);
+  
   return (
     <div>
          <AddUserForm addUser={addUser}/>
